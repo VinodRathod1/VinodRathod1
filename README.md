@@ -34,8 +34,8 @@ I am a software developer with a strong foundation in C++ and a passion for solv
 ### 🔗 Connect with me:
 
 <p align="left">
-  <a href="[YOUR_LINKEDIN_URL]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[Your Name]" height="30" width="40" /></a>
-  <a href="[YOUR_LEETCODE_URL]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="[Your LeetCode]" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/rathlavath-vinod/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[Your Name]" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/RATHOD_VINOD/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="[Your LeetCode]" height="30" width="40" /></a>
 </p>
 
 <!--
