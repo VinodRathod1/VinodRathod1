@@ -30,19 +30,6 @@ I am a software developer with a strong foundation in C++ and a passion for solv
 
 ---
 
-### 📊 My GitHub Stats:
-
-<p align="center">
-  <a href="https://github.com/VinodRathod1">
-    <img src="https://github-readme-stats.vercel.app/api?username=VinodRathod1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="VinodRathod1's GitHub stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/VinodRathod1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodRathod1&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
-  </a>
-</p>
-
----
 
 ### 🔗 Connect with me:
 
