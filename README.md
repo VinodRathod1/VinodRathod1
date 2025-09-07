@@ -8,12 +8,12 @@
 
 ### 👨‍💻 About Me:
 
-I am a software developer with a strong foundation in C++ and a passion for solving complex algorithmic problems [9]. My journey into technology is driven by a desire to build efficient and scalable solutions. I am actively engaged in competitive programming, which helps me continuously sharpen my problem-solving skills.
+I am a software developer with a strong foundation in C++ and a passion for solving complex algorithmic problems . My journey into technology is driven by a desire to build efficient and scalable solutions. I am actively engaged in competitive programming, which helps me continuously sharpen my problem-solving skills.
 
 - 🔭 I’m currently working on enhancing my data structures and algorithms knowledge.
 - 🌱 I’m learning about AI applications and full-stack development.
 - 💬 Ask me about **C++, Data Structures, Algorithms, and Object-Oriented Design**.
-- 📫 How to reach me: **[Your Email Address]**
+- 📫 How to reach me: **vinodgsvcp1922@gmail.com**
 - ⚡ Fun fact: I enjoy exploring new ideas for creative projects and beautiful designs!
 
 ---
